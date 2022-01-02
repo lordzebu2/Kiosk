@@ -1,0 +1,5 @@
+1/yun/yun123/yun123/010-000-0000/2000.01.01/yun@yun.yun/남/5000
+2/kim/kim123/kim123/010-000-0000/2000.01.01/kim@kim.kim/여/5000
+3/kwon/kwon123/kwon123/010-000-0000/2000.01.01/kwon@kwon.kwon/여/5000
+4/jeong/jeong123/jeong123/010-000-0000/2000.01.01/jeong@jeong.jeong/남/5000
+5/yun/yun1234/aaa/010/000/aaa@aaa.aaa/남/5000
